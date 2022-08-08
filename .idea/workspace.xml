@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e4b6daef-140d-4cc0-9f74-295c9714e015" name="Changes" comment="Add more files">
+      <change afterPath="$PROJECT_DIR$/LICENSE.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assessments/Aug_02/Problem1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assessments/Aug_02/Problem1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Assessments/Aug_02/Problem2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Assessments/Aug_02/Problem2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Aug_02/UsingSwitch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Aug_02/UsingSwitch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +49,11 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\VIT\Semester Data\FallSemester [III]\Computer Programming Java\VIT_Java_Codes" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="EscapeSequences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="July_25.EscapeSequences" />
@@ -83,6 +87,7 @@
       <workItem from="1659285092703" duration="410000" />
       <workItem from="1659450970931" duration="1551000" />
       <workItem from="1659454153374" duration="559000" />
+      <workItem from="1659948087639" duration="671000" />
     </task>
     <task id="LOCAL-00001" summary="Initial Commit">
       <created>1658773284459</created>
